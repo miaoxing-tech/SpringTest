@@ -1,0 +1,30 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/aspectjweaver-1.8.7.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/javax.servlet-api-3.0.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-webmvc-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/logback-classic-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-core-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/mysql-connector-java-5.1.37.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/log4j-over-slf4j-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/javax.annotation-api-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-beans-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/commons-logging-1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-web-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/guava-18.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-aspects-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-context-support-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-context-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/jul-to-slf4j-1.7.10.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/slf4j-api-1.7.12.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/logback-core-1.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-aop-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/spring-expression-4.1.9.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/FourServlet/target/FourServlet/WEB-INF/lib/jcl-over-slf4j-1.7.10.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
